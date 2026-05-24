@@ -1,0 +1,9 @@
+学修番号：25746119
+氏　　名：島野雅子
+GitHub URL：https://github.com/Shimano-Masako/kadai4
+
+最大公約数計算スクリプト (gcd.sh)：
+2つの自然数を引数として受け取り、ユークリッドの互除法を用いてGCDを出力します。
+
+テスト自動化（test_gcd.sh）：
+GitHub Actionsを利用し、push時に test_gcd.sh を自動実行します。
