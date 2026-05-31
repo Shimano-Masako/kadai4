@@ -1,6 +1,8 @@
 学修番号：25746119
 GitHub URL：https://github.com/Shimano-Masako/kadai4
 
+最大公約数シェルスクリプト
+
 作成したシェルスクリプト(gcd.sh)の使用方法:
 1. ターミナルで「./gcd.sh <数値1> <数値2>」を実行します。
    （例：./gcd.sh 24 36  ->  12 と出力されます）
